@@ -23,6 +23,21 @@ let bool2=0
 let bool3=""
 let bool4="utkarsh"
 let bool5=5
+console.table([typeof Boolean(b)])
+
+
+
+//****************************OPERATION***********************************//
+let val=3
+let negetiveValue=-val;
+console.log(negetiveValue);
+
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2**2)
+console.log(2/2)
+
 
 
 
