@@ -34,5 +34,8 @@ console.log("2"===2);  // false
 
 
 
+const num=56
+num=23    // you cannot assign num again bcz num is const
+console.log(num);
 
 
