@@ -33,6 +33,9 @@ const url = "https://utkarsh.com/utkarsh%20vardhan"
 
 console.log(url.replace('%20', '-'))
 
-console.log(url.includes('sundar'))
+console.log(url.includes('sundar'))// false
+console.log(url.includes('vardhan')); // true
+
 
 console.log(gameName.split('-'));
+console.log(gameName.includes('Utkarsh')); // true
