@@ -3,14 +3,14 @@
 
 
 // Data types-->
-// number
-// string
-// bigInt
-// boolean
-// null=> standalone value
-// undefined
-// symbol => unique
-// object
+//               • number
+//               • string
+//               • bigInt
+//               • boolean
+//               • null=> standalone value
+//               • undefined
+//               • symbol => unique
+//               • object
 
 let age=20
 let name='Utkarsh'
